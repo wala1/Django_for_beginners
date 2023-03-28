@@ -1,1 +1,1 @@
-# Django_for_beginners
+# created a store app
